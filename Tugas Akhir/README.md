@@ -4,7 +4,7 @@ Kelompok 7 Pemrograman Web
 - (D121201078) Adnan Fauzan Ramdhani
 - (D121201095) Andi Muh. Dzaky Siraj
 
-Backend dari website ini dibuat dengan menggunakan Node.js, Express.js, dan database MongoDB. <br?
+Backend dari website ini dibuat dengan menggunakan Node.js, Express.js, dan database MongoDB. <br>
 Frontend dari website ini dibuat dengan menggunakan Vue.js
 
 Web App ini berfungsi untuk membantu pengguna membuat daftar 'todo' guna mengelola tugas-tugas. <br>
