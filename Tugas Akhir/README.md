@@ -5,7 +5,7 @@ Kelompok 7 Pemrograman Web
 - (D121201095) Andi Muh. Dzaky Siraj
 
 Backend dari website ini dibuat dengan menggunakan Node.js, Express.js, dan database MongoDB <br>
-Frontend dari website ini dibuat dengan menggunakan Vue.js
+Frontend dari website ini dibuat dengan menggunakan Vue.js.
 
 Web App ini berfungsi untuk membantu pengguna membuat daftar 'todo' guna mengelola tugas-tugas. <br>
 Web App ini memiliki fungsi untuk menambah tugas serta deskripsinya, dan kemudian menampilkannya dalam daftar. <br>
